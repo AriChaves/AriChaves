@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Arianna 👋
 
-<!--
-**AriChaves/AriChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer from Costa Rica, finishing my B.S. in Information Systems Engineering at Universidad Nacional.
 
-Here are some ideas to get you started:
+- 🔧 QA & Full-Stack Developer intern at **Rollin Media** (Next.js, React Native, TypeScript, PostgreSQL)
+- 📦 Freelance Technical Product Manager at **Cars4k**
+- 💼 Previously Software Developer at **Datacor** (React, Redux, C#/.NET, PostgreSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+
+- **Suavético**: adaptive planner for people with ADHD (TypeScript)
+- **Kode**: AI-powered Android calendar that organizes tasks around your schedule and tracks grades (Kotlin)
+
+**Tech:** React · Next.js · TypeScript · C# · .NET · Kotlin · PostgreSQL · Git · Scrum
+
+📫 [linkedin.com/in/arianna-chaves-304a031b9](https://www.linkedin.com/in/arianna-chaves-304a031b9)
